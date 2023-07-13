@@ -1,0 +1,27 @@
+{
+    "id": "e1d64ad4-5c85-427c-b276-8452d324f7f0",
+    "username": "sankar3",
+    "password": "$2b$10$t09/NJUMjbIsRG4IWO9YKe6DDfMMRU1sfvqRR/Go5J1LD3CE7auCm",
+    "users": {
+        "sankar": {
+            "id": "c93cb07b-06bf-4d67-a000-a52f71e30b66",
+            "username": "sankar",
+            "password": "$2b$10$qPrrxv7tWnX8kglthzTT5.d7SSrWG74vTZcqoxlfk7N.sBPTCSY8C"
+        },
+        "sankar1": {
+            "id": "eaf692d5-988d-40aa-8ef5-b73a7a1caa64",
+            "username": "sankar1",
+            "password": "$2b$10$vCuzFsweX0QdK3ngjG1p2eVC5iCEBvdT35558.GPj2cHpvhqXEKR2"
+        },
+        "sankar3": {
+            "id": "f6f05503-707b-4286-a5dd-df370661e61f",
+            "username": "sankar3",
+            "password": "$2b$10$nxM6eiyTaq3eRmf5c4pFaekBjenGffgnC1wWtR2W5onid7IaRhPgm"
+        },
+        "admin": {
+            "id": "28fc7b97-6e18-4c62-b775-41a755b3a4d1",
+            "username": "admin",
+            "password": "$2b$10$HZCpkwVcPqC38RJjD8rgTuHEc7h36nRf2uAsLv3ZaBbINPOtuAf0S"
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "expenses": {
+        "sankar3": [
+            {
+                "id": "62e2ef79-475f-40b6-800a-f40b7817c2b8"
+            },
+            {
+                "id": "f4f09b1a-8fda-46e9-bb6f-d732c5122940"
+            },
+            {
+                "id": "9ec90b4c-9b6a-4d3b-bf77-7aa71802ba81"
+            },
+            {
+                "id": "da126757-19db-4998-99e3-cbfb0489c03c"
+            },
+            {
+                "id": "5907a33e-827b-496b-a51b-3ede0446afb5"
+            },
+            {
+                "id": "83b38e9a-75c3-4e6b-8455-c8f79db61487",
+                "date": "2023-04-13",
+                "description": "sample",
+                "category": "food",
+                "amount": 12.57
+            },
+            {
+                "id": "345918c2-bfc5-41ce-a1f8-37736f1d04c7",
+                "date": "2023-04-13",
+                "description": "sample",
+                "category": "food",
+                "amount": 123.25
+            },
+            {
+                "id": "f164a0c4-bf22-45fa-a570-c83602d2e936",
+                "date": "2023-05-13",
+                "description": "sample",
+                "category": "food",
+                "amount": 16
+            },
+            {
+                "id": "964410c4-f72f-4399-b641-4a644cc6260d",
+                "date": "2023-06-13",
+                "description": "sample teasting",
+                "category": "food",
+                "amount": 12.33
+            },
+            {
+                "id": "ecdecfcb-d0ee-4506-9af2-cce97d541f0e",
+                "date": "2023-06-13",
+                "description": "testing the scenatio",
+                "category": "movie",
+                "amount": 20
+            },
+            {
+                "id": "39d8492a-c696-4dd1-8672-72b2c5723b1b",
+                "date": "2023-06-03",
+                "description": "trave to occie",
+                "category": "travel",
+                "amount": 7
+            },
+            {
+                "id": "2aacd1ce-985f-41c3-9ebb-51f0cd1f7852",
+                "date": "2023-06-13",
+                "description": "value based on the",
+                "category": "sample",
+                "amount": 256.35
+            },
+            {
+                "id": "ab8e2d25-1562-400e-b806-939d0bc5c456",
+                "date": "2023-03-10",
+                "description": "sample",
+                "category": "food",
+                "amount": 325
+            },
+            {
+                "id": "834a3a3c-02a2-47ee-9705-28b6875ba701",
+                "date": "2023-03-13",
+                "description": "trying char",
+                "category": "travel",
+                "amount": 23
+            },
+            {
+                "id": "3e629f71-82e3-4e17-b6fd-53dca65ca6f0",
+                "date": "2023-02-11",
+                "description": "maveeran",
+                "category": "movie",
+                "amount": 24.25
+            },
+            {
+                "id": "67f777df-479b-486d-aa2a-fdf8e961f698",
+                "date": "2023-02-03",
+                "description": "sample",
+                "category": "travel",
+                "amount": 23
+            },
+            {
+                "id": "b80b43ee-8250-4974-be1e-268a134a3267",
+                "date": "2023-06-22",
+                "description": "working",
+                "category": "sample",
+                "amount": 10
+            }
+        ],
+        "admin": [
+            {
+                "id": "0b7e3890-a378-4c5f-b861-c2cf8b20900d",
+                "date": "10/3/2022",
+                "description": "sample food",
+                "category": "food",
+                "amount": 32.9
+            },
+            {
+                "id": "a3c892f4-e58c-4345-bec2-9f810b2a305f",
+                "date": "10/3/2022",
+                "category": "food",
+                "amount": 30.9
+            }
+        ]
+    }
+}
